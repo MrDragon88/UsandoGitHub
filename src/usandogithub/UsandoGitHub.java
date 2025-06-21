@@ -22,6 +22,10 @@ public class UsandoGitHub {
             @author Oscar Andrade
 
             Esta es la rama creada por Kevin Irias
+=======
+            @version 0.0
+            Esta es la rama creado por Oscar Andrade
+>>>>>>> 510820f9e9f21638e69a9223356b6a2493d1f662
         */
     }
     

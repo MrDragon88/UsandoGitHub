@@ -19,7 +19,7 @@ public class UsandoGitHub {
             He creado el repositiorio para poder usar
             control de versions.
             
-            @author Kevin Irias
+            @author Oscar Andrade
 
             Esta es la rama creada por Kevin Irias
         */
